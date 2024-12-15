@@ -50,6 +50,3 @@ Replace the `[LLM placeholder]` function in your code with actual logic that cal
 ---
 
 Feel free to adjust any section titles or descriptions to better reflect your project’s specifics.
-
-
-Feel free to adjust any section titles or descriptions to better reflect your project’s specifics.
