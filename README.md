@@ -16,7 +16,14 @@ This repository contains a simple Telegram bot using [Telethon](https://pypi.org
 ### Security & Privacy
 
 - Make sure you **never commit** your `.env` file to GitHub, as it contains sensitive information.
-- **Account Linking Notice**: By linking Telegram accounts to this bot, you grant the bot and its admins access to those accounts. **Only link Telegram accounts that do not have access to funds or trading bots**, if applicable. Do not link personal or sensitive accounts that you do not wish to share.
+- **Account Linking Notice**: By linking Telegram accounts to this bot, you grant the bot and its admins access to those accounts. **Only link Telegram accounts that you specifically use for funds or trading bots**, if applicable. Do not link personal or sensitive accounts that you do not wish to share.
+
+### Generating an Encryption Key
+
+This bot uses an encryption key to secure Telegram user data. You can generate a new encryption key using the `cryptography` library in Python:
+
+```bash
+python -c "from cryptography.fernet import Fernet; print(Fernet.generate_key().decode())"
 
 ### Customization
 
