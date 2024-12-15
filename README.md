@@ -11,11 +11,12 @@ This repository contains a simple Telegram bot using [Telethon](https://pypi.org
 ### Usage
 
 - Start the bot in Telegram by sending `/start`.
-- Use the inline buttons to create or edit AI agents.
+- Use inline buttons to create or edit AI agents.
 
-### Security
+### Security & Privacy
 
-Make sure you **never commit** your `.env` file to GitHub, as it contains sensitive information.
+- Make sure you **never commit** your `.env` file to GitHub, as it contains sensitive information.
+- **Account Linking Notice**: By linking Telegram accounts to this bot, you grant the bot and its admins access to those accounts. **Only link Telegram accounts that you specifically use for funds or trading bots**, if applicable. Do not link personal or sensitive accounts that you do not wish to share.
 
 ### Customization
 
@@ -47,5 +48,8 @@ Replace the `[LLM placeholder]` function in your code with actual logic that cal
     ```
 
 ---
+
+Feel free to adjust any section titles or descriptions to better reflect your project’s specifics.
+
 
 Feel free to adjust any section titles or descriptions to better reflect your project’s specifics.
