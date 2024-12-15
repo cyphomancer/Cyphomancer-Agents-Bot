@@ -9,7 +9,6 @@ Usage:
 Start the bot in Telegram by sending /start.
 Use inline buttons to create or edit AI agents.
 
-Important Notes:
 Security: Make sure you never commit your .env file to GitHub, as it contains sensitive info.
 Customization: Replace the [LLM placeholder] function with actual code that calls your VPS or local-hosted LLM endpoint.
 
