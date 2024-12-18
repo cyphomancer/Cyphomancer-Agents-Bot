@@ -18,7 +18,7 @@ This repository contains a simple Telegram bot using Telethon.
 ### Security & Privacy
 
 - **Do not commit your `.env` file to GitHub**, as it contains sensitive information.
-- **Account Linking Notice**: By linking Telegram accounts to this bot, you grant the bot and its admins access to those accounts. Only link Telegram accounts specifically used for funds or trading bots, if applicable. Do not link personal or sensitive accounts that you do not wish to share.
+- **Account Linking Notice**: By linking Telegram accounts to this bot, you grant the bot and its admins access to those accounts. Do not link Telegram accounts used for funds or trading bots, if applicable. Do not link personal or sensitive accounts that you do not wish to share.
 
 ---
 
