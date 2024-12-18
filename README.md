@@ -4,7 +4,7 @@ Telegram Custom AI Agent Launching Bot for Cyphomancer
 
 ---
 
-## My Telegram Bot
+## Telegram Bot
 
 This repository contains a simple Telegram bot using [Telethon](https://pypi.org/project/Telethon/).
 
