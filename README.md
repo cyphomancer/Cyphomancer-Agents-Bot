@@ -8,7 +8,7 @@
 
 ## Telegram Bot
 
-This repository contains a simple Telegram bot using Telethon.
+This repository contains a Telegram bot using Telethon.
 
 ### Usage
 
